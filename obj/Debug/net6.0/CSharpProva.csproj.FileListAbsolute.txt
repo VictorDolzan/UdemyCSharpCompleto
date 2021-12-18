@@ -1,0 +1,15 @@
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpProva/obj/Debug/net6.0/CSharpProva.csproj.AssemblyReference.cache
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpProva/obj/Debug/net6.0/CSharpProva.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpProva/obj/Debug/net6.0/CSharpProva.AssemblyInfoInputs.cache
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpProva/obj/Debug/net6.0/CSharpProva.AssemblyInfo.cs
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpProva/obj/Debug/net6.0/CSharpProva.csproj.CoreCompileInputs.cache
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpProva/bin/Debug/net6.0/CSharpProva
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpProva/bin/Debug/net6.0/CSharpProva.deps.json
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpProva/bin/Debug/net6.0/CSharpProva.runtimeconfig.json
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpProva/bin/Debug/net6.0/CSharpProva.dll
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpProva/bin/Debug/net6.0/ref/CSharpProva.dll
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpProva/bin/Debug/net6.0/CSharpProva.pdb
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpProva/obj/Debug/net6.0/CSharpProva.dll
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpProva/obj/Debug/net6.0/ref/CSharpProva.dll
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpProva/obj/Debug/net6.0/CSharpProva.pdb
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpProva/obj/Debug/net6.0/CSharpProva.genruntimeconfig.cache
